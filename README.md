@@ -9,7 +9,7 @@ BUILD LINUX
 
 (optional)
 
-    strip Bitradiod
+    strip digimoneyd
 
     sudo cp digimoneyd /usr/local/bin
 
