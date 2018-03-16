@@ -1,17 +1,17 @@
 # digimoney
 BUILD LINUX
 
-    git clone https://github.com/juninhodecio/digimoney.git
+    git clone https://github.com/digimoneydgm/digimoney
 
     cd digimoney/src
 
-    make -f makefile.unix # Headless
+    make -f makefile.unix
 
 (optional)
 
     strip digimoneyd
 
-    sudo cp digimoneyd /usr/local/bin
+    sudo cp digimoneyd /usr/bin
 
 
 Deps
